@@ -307,7 +307,7 @@ while True:
         show_accounts()
 
     elif choice == "0":
-        print("Goodbye")
+        print("Goodbye OK ")
         break
 
     else:
